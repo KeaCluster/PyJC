@@ -1,0 +1,12 @@
+Abrir consola y checar version de python 
+    python --version 
+Programar desde consola 
+    Python  //iniciar shell 
+    py  //Opcion alternativa 
+    exit() //cerrar shell 
+Ejecutar .py 
+    python archivo.py 
+
+-Machine learning 
+-Python MySQL
+-Python MongoDB
